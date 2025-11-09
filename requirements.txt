@@ -1,0 +1,15 @@
+openai
+streamlit
+transformers
+torch
+datasets
+accelerate
+sentence-transformers
+faiss-cpu
+PyPDF2
+python-docx
+markdown
+chromadb
+tiktoken
+spacy
+flask

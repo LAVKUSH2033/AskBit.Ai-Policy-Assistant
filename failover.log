@@ -1,0 +1,37 @@
+2025-11-09 07:35:18,950 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:35:18,951 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-09 07:38:28,106 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:38:28,106 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-09 07:38:31,152 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-09 07:41:09,519 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:41:09,519 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-09 07:41:12,555 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-09 07:41:45,008 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:41:45,008 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-09 07:43:32,500 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:43:32,500 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-09 07:43:35,434 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-09 07:43:36,946 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-09 07:43:36,946 - INFO - [33mPress CTRL+C to quit[0m
+2025-11-09 07:43:36,951 - INFO -  * Restarting with watchdog (windowsapi)
+2025-11-09 07:43:55,707 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:43:55,707 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-09 07:43:59,390 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-09 07:44:01,059 - WARNING -  * Debugger is active!
+2025-11-09 07:44:01,059 - INFO -  * Debugger PIN: 214-928-036
+2025-11-09 07:44:03,380 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:44:03,380 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-09 07:44:06,838 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-09 07:44:20,206 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:44:20,208 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-09 07:44:51,241 - INFO -  * Detected change in 'C:\\Users\\lavk\\Desktop\\Policy specific LLM\\metrics.py', reloading
+2025-11-09 07:49:13,780 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:49:13,780 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-09 07:49:16,838 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-11-09 07:50:44,222 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:50:44,222 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-09 07:51:06,980 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:51:06,980 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-11-09 07:51:31,116 - INFO - Use pytorch device_name: cpu
+2025-11-09 07:51:31,117 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2

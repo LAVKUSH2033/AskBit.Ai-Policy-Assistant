@@ -1,0 +1,44 @@
+[
+    {
+        "question": "What is Progressive Variable Pay?",
+        "answer": "Progressive Variable Pay is a performance-based compensation component that rewards employees for achieving specific targets and contributing to company growth.",
+        "confidence": 0.95,
+        "citations": [],
+        "cached": false
+    },
+    {
+        "question": "How is variable pay calculated?",
+        "answer": "Variable pay is calculated based on individual performance metrics, team contributions, and overall company performance, typically as a percentage of base salary.",
+        "confidence": 0.92,
+        "citations": [],
+        "cached": false
+    },
+    {
+        "question": "What is FlexNXT 2.0?",
+        "answer": "FlexNXT 2.0 is an updated flexible work policy allowing remote work options and flexible hours.",
+        "confidence": 0.88,
+        "citations": [],
+        "cached": false
+    },
+    {
+        "question": "Who can apply for FlexNXT 2.0?",
+        "answer": "Eligible employees in approved roles can apply, subject to manager approval.",
+        "confidence": 0.91,
+        "citations": [],
+        "cached": false
+    },
+    {
+        "question": "What is the Increment Policy?",
+        "answer": "The Increment Policy outlines how salary increases are determined based on performance, inflation, and market adjustments.",
+        "confidence": 0.89,
+        "citations": [],
+        "cached": false
+    },
+    {
+        "question": "How often are increments given?",
+        "answer": "Increments are typically annual, aligned with the performance appraisal cycle.",
+        "confidence": 0.87,
+        "citations": [],
+        "cached": false
+    }
+]
